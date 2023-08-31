@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kunal Paliwal</h1>
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋"> </h1>
 <h3 align="center">I'm Kunal, and I am currently learning the base of ML along with DSA.</h3>
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpaliwal13&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpaliwal13" /> </p>
 
