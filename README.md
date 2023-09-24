@@ -2,10 +2,10 @@
 <h3 align="center">I'm Kunal, and I am currently learning the base of ML along with DSA.</h3>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpaliwal13&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpaliwal13" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kunalpaliwal13&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpaliwal13" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/kunal-paliwal-431072237">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -24,8 +24,8 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
@@ -51,7 +51,7 @@
   </a>
   &nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
 &nbsp;
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
@@ -62,4 +62,4 @@
 </a>
 &nbsp;
 &nbsp;
-<img src="http://github-readme-streak-stats.herokuapp.com?user=kunalpaliwal13&theme=dark&background=000000"/>  </a>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=kunalpaliwal13&theme=dark&background=000000" />  </a>
