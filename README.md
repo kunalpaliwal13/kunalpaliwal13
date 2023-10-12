@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋"> </h1>
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif " width="28px" alt="👋"> </h1>
 <h3 align="center">I'm Kunal, and I am currently learning the base of ML along with DSA.</h3>
 <hr>
 
