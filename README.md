@@ -59,8 +59,16 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="flutter" width="40" height="40"/>
   </a>
+
+
+
+
+
+        
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalpaliwal13&show_icons=true&locale=en" alt="kunalpaliwal13" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpaliwal13&layout=compact">
 </a>
 &nbsp;
 &nbsp;
