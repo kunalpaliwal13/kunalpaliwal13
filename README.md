@@ -19,6 +19,7 @@
     <a href="https://www.hackerrank.com/lightningilagsvb">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
     </a>
+    &nbsp;
 
   
 
@@ -55,7 +56,6 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
-&nbsp;
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="flutter" width="40" height="40"/>
   </a>
@@ -66,6 +66,7 @@
 
         
 </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalpaliwal13&show_icons=true&locale=en" alt="kunalpaliwal13" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalpaliwal13&layout=compact">
