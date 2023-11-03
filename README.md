@@ -21,7 +21,7 @@
     </a>
     &nbsp;
 
-  
+
 
 
 </p>
@@ -30,19 +30,19 @@
 <p align="center">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=48&id=TpULddJc4gTh&format=png" alt="cplusplus" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=64&id=FRRACRKRsw2s&format=png" alt="java" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png" alt="pandas" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png" alt="python" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
@@ -57,7 +57,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="flutter" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png" alt="flutter" width="40" height="40"/>
   </a>
 
 
