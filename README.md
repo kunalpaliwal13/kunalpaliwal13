@@ -1,7 +1,10 @@
 <h1 align="center">Hello!  👋
-</h1>
+</h1> 
 <h3 align="center">I'm Kunal, and I am currently learning the base of ML along with DSA.</h3>
 <hr>
+
+<!-- https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif -->
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kunalpaliwal13&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpaliwal13" /> </p>
 
