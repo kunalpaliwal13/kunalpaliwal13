@@ -2,7 +2,7 @@
 </h1> 
 <h3 align="center">I'm Kunal, and I am currently learning the base of ML along with DSA.</h3>
 <hr>
-
+  
 <!-- https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif -->
 
 
