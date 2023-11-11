@@ -30,10 +30,16 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+
+  
+  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=48&id=TpULddJc4gTh&format=png" alt="cplusplus" width="40" height="40"/>
   </a>
+  
         
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
         <img src= "https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height =40>
