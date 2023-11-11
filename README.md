@@ -24,53 +24,45 @@
     </a>
     &nbsp;
 
-
-
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-
-  
-  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=48&id=TpULddJc4gTh&format=png" alt="cplusplus" width="40" height="40"/>
   </a>
-  
-        
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src= "https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height =40>
+    <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" height="40">
   </a>
-  &nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=64&id=FRRACRKRsw2s&format=png" alt="java" width="40" height="40"/>
   </a>
-  &nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png" alt="pandas" width="40" height="40"/>
   </a>
-  &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png" alt="python" width="40" height="40"/>
   </a>
-  &nbsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
-  &nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
-  &nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png" alt="flutter" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 
