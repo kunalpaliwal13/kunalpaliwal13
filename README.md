@@ -1,4 +1,4 @@
-<h1 align="center">Hello!  👋
+<h1 align="center">Hello!  👋 
 </h1> 
 <h3 align="center">I'm Kunal, and I am currently learning the base of ML along with DSA.</h3>
 <hr>
