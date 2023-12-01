@@ -22,8 +22,12 @@
     <a href="https://www.hackerrank.com/lightningilagsvb">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
     </a>
+    <a href="https://www.codingninjas.com/studio/profile/5d36bb1b-8b41-4afd-a3d5-82d3bf7dc549">
+        <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodingNinja">
+    </a>
     <br>
-    &nbsp;
+    
+    
 
 </p>
 
