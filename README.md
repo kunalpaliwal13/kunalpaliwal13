@@ -51,6 +51,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png" alt="python"  width="55" height="55"/>
   </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/kunalpaliwal13/kunalpaliwal13/assets/143526414/fb34b86c-c757-478a-8a97-cab155764d0e" alt="python"  width="55" height="46"/>
+  </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="55" height="55"/>
   </a>
@@ -72,6 +75,7 @@
   </a>
   <br>
 </p>
+
 
 
 
