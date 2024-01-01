@@ -1,7 +1,7 @@
 <h1 align="center">Hello!  👋 
 </h1> 
 <h3 align="center">I'm Kunal, and I am currently learning Frontend Web Dev along with DSA.</h3> 
-<hr>
+<hr> 
   
 <!-- https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif -->
 
