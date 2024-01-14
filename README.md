@@ -7,7 +7,7 @@
 
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kunalpaliwal13&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpaliwal13" /> </p>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me<img align="center" src="Handshake.gif" height="33px" /></h3>
 <p align="center">
   
 <a href="https://linkedin.com/in/kunal-paliwal-431072237">
