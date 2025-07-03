@@ -32,7 +32,7 @@
 </p>
 
 <h3 align="center">Tools & Languages:</h3>
-<p align="left">
+<p align="left" style={padding-x: "10px"}>
   <img src = "https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=plastic"/>
   <img src = "https://img.shields.io/badge/-NextJS-000000?logo=nextdotjs&logoColor=white&style=plastic"/>
   <img src = "https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=plastic"/>
