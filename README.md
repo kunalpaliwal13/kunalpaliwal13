@@ -31,49 +31,32 @@
 
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width = "45" height = "45"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=48&id=TpULddJc4gTh&format=png" alt="cplusplus" width = "45" height = "45"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib"  width = "45" height = "45"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=64&id=FRRACRKRsw2s&format=png" alt="java"  width = "45" height = "45"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png" alt="pandas"  width = "45" height = "45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png" alt="python"  width = "45" height = "45"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width = "45" height = "45"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn"  width = "45" height = "45"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  width = "45" height = "45"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=48&id=7I3BjCqe9rjG&format=png" alt="flutter"  width = "45" height = "45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="html5"  width = "45" height = "45"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5"  width = "45" height = "45"/>
-  </a>
-  <a href="https://react.dev/learn" target="_blank" rel="noreferrer">
-    <img src="https://github.com/kunalpaliwal13/kunalpaliwal13/assets/143526414/b01f7057-c498-43c2-ae56-3547d85d1806" alt="html5"  width = "45" height = "45"/>
-  </a>
-  
+<h3 align="center">Tools & Languages:</h3>
+<p align="left">
+  <img src = "https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-NextJS-000000?logo=nextdotjs&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-NodeJS-5FA04E?logo=nodedotjs&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Flask-3BABC3?logo=flask&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Tensrflow-FF6F00?logo=tensorflow&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Pytorch-EE4C2C?logo=pytorch&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-MLFlow-0194E2?logo=mlflow&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Apache Spark-E25A1C?logo=apachespark&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Apache Kafka-231F20?logo=apachekafka&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Expo-1C2024?logo=expo&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Web3.js-F16822?logo=web3dotjs&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-SQLlite-003B57?logo=sqlite&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Pandas-4479A1?logo=mysql&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Pandas-3776AB?logo=python&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Pandas-F7DF1E?logo=javascript&logoColor=white&style=plastic"/>  
   <br>
 </p>
 
