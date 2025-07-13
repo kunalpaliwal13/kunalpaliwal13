@@ -1,6 +1,6 @@
 <h1 align="center">Hello!  👋 
 </h1> 
-<h3 align="center">I'm Kunal, I am a Data Analyst also interested in Web development. Open to collab and opportunities! </h3>   
+<h3 align="center">I'm Kunal, I am a Data Analyst also interested in Web development.<br> Open to collab and opportunities! </h3>   
 <hr> 
   
 <!-- https://github.githubassets.com/assets/mona-loading-default-c3c7aad1282f.gif -->
