@@ -54,9 +54,9 @@
   <img src = "https://img.shields.io/badge/-Web3.js-F16822?logo=web3dotjs&logoColor=white&style=plastic"/>
   <img src = "https://img.shields.io/badge/-SQLlite-003B57?logo=sqlite&logoColor=white&style=plastic"/>
   <img src = "https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic"/>
-  <img src = "https://img.shields.io/badge/-Pandas-4479A1?logo=mysql&logoColor=white&style=plastic"/>
-  <img src = "https://img.shields.io/badge/-Pandas-3776AB?logo=python&logoColor=white&style=plastic"/>
-  <img src = "https://img.shields.io/badge/-Pandas-F7DF1E?logo=javascript&logoColor=white&style=plastic"/>  
+  <img src = "https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic"/>
+  <img src = "https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=plastic"/>  
   <br>
 </p>
 
