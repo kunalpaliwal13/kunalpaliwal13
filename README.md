@@ -16,14 +16,14 @@
     <a href="mailto:kunalpaliwal2003@gmail,com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://leetcode.com/kunalpaliwal13/">
-        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
+    <a href="https://x.com/kunalpaliwall13/">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=#d16c06" alt="X">
     </a>
-    <a href="https://www.hackerrank.com/lightningilagsvb">
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
+    <a href="https://medium.com/@kunalpaliwal13">
+        <img src="https://img.shields.io/badge/-Medium-202020?style=for-the-badge&logo=Medium&logoColor=white" alt="HackerRank">
     </a>
-    <a href="https://www.codingninjas.com/studio/profile/5d36bb1b-8b41-4afd-a3d5-82d3bf7dc549">
-        <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" alt="CodingNinja">
+    <a href="https://www.kunalpaliwal.xyz">
+        <img src="https://img.shields.io/badge/portfolio-c6?style=for-the-badge&logo=keras&logoColor=white" alt="CodingNinja">
     </a>
     <br>
     
